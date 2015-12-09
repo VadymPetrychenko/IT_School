@@ -130,7 +130,6 @@ public class Task_1 {
                     copyX2 /= 10;
                 }
                 if (sum1 == sum2) System.out.println("Число: " + x + " - Счастливое!");
-
             }
         }
 
